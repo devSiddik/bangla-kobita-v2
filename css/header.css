@@ -1,0 +1,86 @@
+header {
+    justify-content: space-between;
+    padding: 20px 0;
+}
+header .logo .img{
+    width: 264px;
+    height: 80px;
+}
+header .header-middle .logo {
+    text-align: center;
+}
+header .header-right {
+    margin-top: 0px;
+    justify-content: end;
+}
+header .header-right .registration{
+    margin-top: 0px;
+}
+header .header-right .registration i {
+    color: var(--text);
+    margin-top: 3px;
+    margin-right: 5px;
+}
+header .header-right .registration a{
+    color: var(--text);
+}
+header .header-right .logout {
+    margin: 6px 20px;
+}
+header .header-right .logout i {
+    color: var(--text);
+    margin-top: 3px;
+    margin-right: 5px;
+}
+header .header-right .logout a{
+    color: var(--text);
+}
+header .header-right .your-page{
+    margin-top: 0px;
+    margin-right: 20px;
+}
+header .header-right .your-page i {
+    color: var(--text);
+    margin-right: 5px;
+    margin-top: 3px;
+}
+header .header-right .your-page a{
+    color: var(--text);
+}
+header .header-right .login i{
+    color: var(--text);
+    font-size: 16px;
+    margin-top: 3px;
+    margin-right: 5px;
+}
+header .header-right .login {
+    margin: 0 30px 0 20px;
+    margin-top: 0px;
+}
+header .header-right .login a{
+    color: var(--text);
+}
+header .header-right .login a{
+    color: var(--text);
+}
+header .header-left .social-icon i {
+    color: var(--text);
+    font-size: 17px;
+    /* margin-left: 10px; */
+    height: 26px;
+    width: 27px;
+    line-height: 26px;
+    background-color: var(--white);
+    border-radius: 6px;
+    text-align: center;
+}
+/* header .header-left .social-icon .fa-facebook-f{
+    color: var(--facebook);
+}
+header .header-left .social-icon .fa-twitter{
+    color: var(--twitter);
+}
+header .header-left .social-icon .fa-youtube{
+    color: var(--google);
+} */
+
